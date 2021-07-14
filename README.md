@@ -18,9 +18,9 @@ Commit your code regularly and meaningfully. This helps both you and your team l
 
 In this project you'll choose an api to consume. You will build an application from scratch that uses your chosen API and displays the data you are getting from it.
 
-## Instructions
+## Instructions (start)
 
-### Task 1: Project Set Up
+### Task 1: Project Set Up 
 
 - [ ] Create a forked copy of this project.
 - [ ] Add your team lead as collaborator on Github.
